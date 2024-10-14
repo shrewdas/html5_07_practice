@@ -1,0 +1,24 @@
+.container > h3 {
+    color: darkgreen;
+    font-size: 24px;
+  }
+  
+  .container h1 {
+    color: darkred;
+    font-size: 32px;
+  }
+  
+  .description > .info {
+    background-color: lightyellow;
+    padding: 10px;
+  }
+  
+  .info p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  #highlight {
+    background-color: lightpink;
+    font-weight: bold;
+  }
